@@ -16,21 +16,21 @@ Der Bash Bunny ist, ähnlich wie der USB Rubber Ducky ein Keystroke Injection To
 
 Der Bash Bunny ist eigentlich nur ein kleiner Linux-Computer (ähnlich wie ein Raspberry Pi) mit einem USB-Stecker. Wie in der unteren Abbildung zu sehen ist, hat er einen Schalter mit 3 Modi und eine LED.
 
-![](C:\Users\chris\AppData\Roaming\marktext\images\2024-06-12-18-24-43-image.png)
+![](img/aufbau.png)
 
 ### LED:
 
 Die LED zeigt den Status des Bunnies an. Einerseits gibt es default Farben und "Abfolgen", andererseits kann man im eigenen Payload definieren, nach welchem Schritt in welcher Farbe die LED sein soll. Mit dem Befehl `LED` und anschließend einer Farbe/Abfolge, kann man die LED steuern:
 
-![](C:\Users\chris\AppData\Roaming\marktext\images\2024-06-12-18-27-00-image.png)
+![](img/led_color.png)
 
 Außerdem gibt es noch Patterns:
 
-![](C:\Users\chris\AppData\Roaming\marktext\images\2024-06-12-18-27-51-image.png)
+![](img/led_patterns.jpg)
 
 Und ganze States:
 
-![](C:\Users\chris\AppData\Roaming\marktext\images\2024-06-12-18-28-37-image.png)
+![](ek_commands.jpg)
 
 **Beispiele:**
 
