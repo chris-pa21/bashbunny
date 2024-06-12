@@ -30,7 +30,7 @@ Außerdem gibt es noch Patterns:
 
 Und ganze States:
 
-![](ek_commands.jpg)
+![](img/ek_commands.jpg)
 
 **Beispiele:**
 
@@ -52,7 +52,7 @@ Wie schon erwähnt hat der Schalter 3 Modi:
 
 ## Syntax:
 
-Der Bash Bunny wird, wie im Namen mit Bash und der Programmiersprache Ducky Script programmiert. Da ich Ducky Script schon ausführlich in meiner [EK-Dokumentation]([GitHub - chris-pa21/EK_parushev_rubberducky: Das ist mein SYT-EK bei dem ich mit dem Rubber DUcky gearbeitet habe](https://github.com/chris-pa21/EK_parushev_rubberducky)) über den Rubber Ducky erklärt habe, werde ich nicht genauer darauf eingehen. Die einzige Sonderheit hier ist, dass vor dem Befehl `Q` bzw. `QUACK` hingeschrieben/gekenneichnet werden muss, falls mit Duckyscript gearbeitet wird. Beispiel:
+Der Bash Bunny wird, wie im Namen mit Bash und der Programmiersprache Ducky Script programmiert. Da ich Ducky Script schon ausführlich in meiner [EK-Dokumentation](https://github.com/chris-pa21/EK_parushev_rubberducky) über den Rubber Ducky erklärt habe, werde ich nicht genauer darauf eingehen. Die einzige Sonderheit hier ist, dass vor dem Befehl `Q` bzw. `QUACK` hingeschrieben/gekenneichnet werden muss, falls mit Duckyscript gearbeitet wird. Beispiel:
 
 `Q STRINGLN Hello, World!`
 
@@ -112,7 +112,7 @@ LED FINISH
 
 Nun muss man es noch im Ordner speichern:
 
-![](C:\Users\chris\AppData\Roaming\marktext\images\2024-06-12-19-12-03-image.png)
+![](skript1.jpg)
 
 
 
