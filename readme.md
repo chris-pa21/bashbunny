@@ -22,7 +22,7 @@ Der Bash Bunny ist eigentlich nur ein kleiner Linux-Computer (ähnlich wie ein R
 
 Die LED zeigt den Status des Bunnies an. Einerseits gibt es default Farben und "Abfolgen", andererseits kann man im eigenen Payload definieren, nach welchem Schritt in welcher Farbe die LED sein soll. Mit dem Befehl `LED` und anschließend einer Farbe/Abfolge, kann man die LED steuern:
 
-![](img/led_color.png)
+![](img/led_color.jpg)
 
 Außerdem gibt es noch Patterns:
 
