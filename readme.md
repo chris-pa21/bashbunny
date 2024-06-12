@@ -144,4 +144,5 @@ nmap -sC -sV $IP >> $LOOTDIR/nmap.txt
 LED FINISH
 ```
 
-
+### Quellen:
+[Hak5 Documenation - Bash Bunny](https://docs.hak5.org/bash-bunny)
